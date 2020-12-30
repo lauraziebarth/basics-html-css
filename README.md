@@ -1,6 +1,8 @@
 # Formação HTML e CSS  
 
-Curso da Alura, de 180hr, com os tópicos:
+Curso da Alura, com os tópicos:
+
+<small>
 
 1. HTML & CSS
 2. SITES FEITOS PARA TODOS
@@ -9,3 +11,7 @@ Curso da Alura, de 180hr, com os tópicos:
 5. LAYOUTS RESPONSIVOS
 6. ARQUITETURA CSS
 7. OTIMIZAÇÕES E PERFORMANCE
+
+</small>
+
+`Total de 180hr`
