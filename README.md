@@ -1,17 +1,13 @@
-# Formação HTML e CSS  
+# Conceitos básicos de HTML e CSS
 
-Curso da Alura, com os tópicos:
+O intuito desse repositório é demonstrar todo o aprendizado obtido através do curso [Formação HTML e CSS](https://cursos.alura.com.br/formacao-html-e-css) da Alura, com os seguintes tópicos:
 
-<small>
+[ ] HTML & CSS
+[ ] SITES FEITOS PARA TODOS
+[ ] JAVASCRIPT E SITES DINÂMICOS
+[ ] INTERFACES AVANÇADAS COM CSS
+[ ] LAYOUTS RESPONSIVOS
+[ ] ARQUITETURA CSS
+[ ] OTIMIZAÇÕES E PERFORMANCE
 
-1. HTML & CSS
-2. SITES FEITOS PARA TODOS
-3. JAVASCRIPT E SITES DINÂMICOS
-4. INTERFACES AVANÇADAS COM CSS
-5. LAYOUTS RESPONSIVOS
-6. ARQUITETURA CSS
-7. OTIMIZAÇÕES E PERFORMANCE
-
-</small>
-
-`Total de 180hr`
+O total de horas de estudo, ao finalizar o curso, será de 180hr.
