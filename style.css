@@ -165,14 +165,6 @@ td, th {
     clear: left
 }
 
-.titulo-principal:before {
-    content: "[ ";
-}
-
-.titulo-principal:after {
-    content:" ]"
-}
-
 .principal {
     padding: 3em 0;
     background: #FEFEFE;
