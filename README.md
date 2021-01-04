@@ -2,7 +2,7 @@
 
 O intuito desse repositório é demonstrar todo o aprendizado obtido através do curso [Formação HTML e CSS](https://cursos.alura.com.br/formacao-html-e-css) da Alura, com os seguintes tópicos:
 
-- [ ] HTML & CSS
+- [x] HTML & CSS
 - [ ] SITES FEITOS PARA TODOS
 - [ ] JAVASCRIPT E SITES DINÂMICOS
 - [ ] INTERFACES AVANÇADAS COM CSS
